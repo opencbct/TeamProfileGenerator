@@ -27,10 +27,11 @@ TeamProfileGenerator
   ___
   Build a team and display the team in an easily readable web page with color-coded cards holding all the entered info. Move/copy the generated html file and accompanying css file to render the page in any other project/web page.
 
+
   ## Video
   ___
-  [![Demo Video](./assets/images/team-profile-generator-image.png)](https://drive.google.com/file/d/1Bo28-YtMDdoDkTENvXGym9olzIEDV1MI/view "Demo Video")
-  https://drive.google.com/file/d/1pgL37sCuBdT47HL8ZfAzt_icjerMbpzc/view?usp=sharing
+  [![Demo Video](./assets/images/team-profile-generator-image.png)](hhttps://drive.google.com/file/d/1pgL37sCuBdT47HL8ZfAzt_icjerMbpzc/view?usp=sharing
+"Demo Video")
 
   ## Collaboration:
   ___
