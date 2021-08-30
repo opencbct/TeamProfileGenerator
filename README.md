@@ -30,8 +30,7 @@ TeamProfileGenerator
 
   ## Video
   ___
-  [![Demo Video](./assets/images/team-profile-generator-image.png)](hhttps://drive.google.com/file/d/1pgL37sCuBdT47HL8ZfAzt_icjerMbpzc/view?usp=sharing
-"Demo Video")
+  [![Demo Video](./assets/images/team-profile-generator-image.png)](https://drive.google.com/file/d/1pgL37sCuBdT47HL8ZfAzt_icjerMbpzc/view?usp=sharing"Demo Video")
 
   ## Collaboration:
   ___
