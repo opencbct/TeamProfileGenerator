@@ -42,12 +42,9 @@ TeamProfileGenerator
   ## Questions?
   ___
   Please contact me at:
-  My [GitHub](https://github.com/Windowmac)
+  My [GitHub](https://github.com/opencbct)
   
   Or Email:
-  <mckendree.strommer@gmail.com>
+  <opencbct@gmail.com>
 
   
-  ## License: 
-  ___
-  Licensed under [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0)
